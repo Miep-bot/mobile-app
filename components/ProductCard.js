@@ -1,4 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
+
 import { StyleSheet, Text, Image, View, ScrollView, Button } from 'react-native';
 
 const ProductCard = () => {
